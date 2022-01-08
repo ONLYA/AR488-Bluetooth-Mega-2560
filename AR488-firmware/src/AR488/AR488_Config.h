@@ -160,7 +160,7 @@
  * This will require the use of an additional GPIO pin to control
  * the read and write modes of the ICs.
  */
-//#define SN7516X
+#define SN7516X
 #ifdef SN7516X
   #define SN7516X_TE 13
   #define SN7516X_DC 5
