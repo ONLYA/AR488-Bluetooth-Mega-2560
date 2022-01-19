@@ -7,6 +7,8 @@ You can find the chips here: [SN75160BN](https://www.mouser.co.uk/ProductDetail/
 
 The GPIB connector I use: [112-024-213R001](https://www.mouser.co.uk/ProductDetail/NorComp/112-024-213R001?qs=IGgAdOvCTsR9oVdHJ26vTQ%3D%3D). Please note that this is a *female* connector, so you will need a GPIB male-male cable.
 
+Connect JP2, "0" side of JP3 and JP4 as the origin setup. You can change that accordingly with the `AR488_config.h`.
+
 PCB images in KiCad 3D Viewer:
 ![top](images/AR488-Bluetooth-top.png)
 
