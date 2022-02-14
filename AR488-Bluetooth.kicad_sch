@@ -3287,7 +3287,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid ceea4348-d490-4b5a-ae1f-9b750975f2b4)
   )
-  (text "9V battery Regulator & Indicator" (at 127 81.28 0)
+  (text "3~4V battery Regulator & Indicator" (at 127 81.28 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid de299d3c-2316-40aa-87ad-3cbebf0905c9)
   )
